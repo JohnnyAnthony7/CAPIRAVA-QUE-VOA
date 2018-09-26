@@ -1,2 +1,2 @@
 language: python
-gem install travis-lint-
+gem install travis-lint
